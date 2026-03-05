@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 14: expected 'simple_expression' not found.
+    show aj at with moveinleft
+               ^
+
+Ren'Py Version: Ren'Py 8.4.1.25072401
+Fri Sep 26 10:34:48 2025
